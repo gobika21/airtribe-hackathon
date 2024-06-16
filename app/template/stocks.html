@@ -28,6 +28,28 @@
       .content {
         padding: 20px;
       }
+      #customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #02120c;
+  color: white;
+}
     </style>
   </head>
   <body>
@@ -49,7 +71,7 @@
     <div id="stock-news" class="content">
       <h2>Stock News</h2>
       <p>Here you can find the latest news about stocks.</p>
-      <table border="1">
+      <!-- <table border="1">
         <thead>
           <tr>
             <th>Symbol</th>
@@ -60,22 +82,32 @@
         </thead>
 
         <p>Interests:</p>
-        <ul>
+        <!-- <ul>
           {% for interest in data_dict.interests %}
           <li>Symbol : {{ interest.symbol }}</li>
           <li>Price : {{ interest.price }}</li>
           <li>Volume :{{ interest.volume }}</li>
           <li>Change :{{ interest.change }}</li>
           {% endfor %}
-        </ul>
-        <!-- <tbody>
-          <tr>
-            <td>{{ stock.symbol }}</td>
-            <td>{{ stock.price }}</td>
-            <td>{{ stock.volume }}</td>
-            <td>{{ stock.change }}</td>
-          </tr>
-        </tbody> -->
+        </ul> -->
+
+      
+      <table id="customers">
+        <tr>
+          <th>Company</th>
+          <th>Price</th>
+          <th>Volume</th>
+          <th>Change</th>
+        </tr>
+        {% for interest in data_dict.interests %}
+        <tr>
+          <td>{{ interest.symbol }}</td>
+          <td>{{ interest.price }}</td>
+          <td>{{ interest.volume }}</td>
+          <td>{{ interest.change   }}</td>
+        </tr>
+        {% endfor %}
+        
       </table>
       <!-- Add your stock news here -->
     </div>
