@@ -31,8 +31,12 @@
     </style>
   </head>
   <body>
+    <script>
+      console.log(JSON.parse(stocks_response));
+    </script>
     <div class="navbar">
-      <a href="#stocks">Stocks</a>
+      <a href="#stock_table">Stocks</a>
+
       <a href="#stock-news">Stock News</a>
     </div>
 
@@ -45,6 +49,34 @@
     <div id="stock-news" class="content">
       <h2>Stock News</h2>
       <p>Here you can find the latest news about stocks.</p>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Price</th>
+            <th>Volume</th>
+            <th>Change</th>
+          </tr>
+        </thead>
+
+        <p>Interests:</p>
+        <ul>
+          {% for interest in data_dict.interests %}
+          <li>Symbol : {{ interest.symbol }}</li>
+          <li>Price : {{ interest.price }}</li>
+          <li>Volume :{{ interest.volume }}</li>
+          <li>Change :{{ interest.change }}</li>
+          {% endfor %}
+        </ul>
+        <!-- <tbody>
+          <tr>
+            <td>{{ stock.symbol }}</td>
+            <td>{{ stock.price }}</td>
+            <td>{{ stock.volume }}</td>
+            <td>{{ stock.change }}</td>
+          </tr>
+        </tbody> -->
+      </table>
       <!-- Add your stock news here -->
     </div>
   </body>
