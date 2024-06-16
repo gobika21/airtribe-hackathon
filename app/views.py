@@ -13,7 +13,7 @@ def render_news_website(request):
       "change": -1.23,
       "percent_change": -0.85,
       "volume": 25678432,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "GOOGL",
@@ -22,7 +22,7 @@ def render_news_website(request):
       "change": 12.45,
       "percent_change": 0.46,
       "volume": 1568945,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "MSFT",
@@ -31,7 +31,7 @@ def render_news_website(request):
       "change": 5.67,
       "percent_change": 1.52,
       "volume": 20378456,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "AMZN",
@@ -40,7 +40,7 @@ def render_news_website(request):
       "change": -18.75,
       "percent_change": -0.57,
       "volume": 3987456,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "TSLA",
@@ -49,7 +49,7 @@ def render_news_website(request):
       "change": 8.20,
       "percent_change": 1.22,
       "volume": 7845963,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "NVDA",
@@ -58,7 +58,7 @@ def render_news_website(request):
       "change": -2.15,
       "percent_change": -0.68,
       "volume": 5698741,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "FB",
@@ -67,7 +67,7 @@ def render_news_website(request):
       "change": 6.75,
       "percent_change": 1.99,
       "volume": 2345678,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "NFLX",
@@ -76,7 +76,7 @@ def render_news_website(request):
       "change": -3.45,
       "percent_change": -0.83,
       "volume": 1789456,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "CRM",
@@ -85,7 +85,7 @@ def render_news_website(request):
       "change": 4.20,
       "percent_change": 1.64,
       "volume": 1324567,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "PYPL",
@@ -94,7 +94,7 @@ def render_news_website(request):
       "change": 0.90,
       "percent_change": 0.32,
       "volume": 2456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "V",
@@ -103,7 +103,7 @@ def render_news_website(request):
       "change": -1.50,
       "percent_change": -0.63,
       "volume": 1894567,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "NVDA",
@@ -112,7 +112,7 @@ def render_news_website(request):
       "change": -2.15,
       "percent_change": -0.68,
       "volume": 5698741,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "INTC",
@@ -121,7 +121,7 @@ def render_news_website(request):
       "change": 0.25,
       "percent_change": 0.45,
       "volume": 3456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "ADBE",
@@ -130,7 +130,7 @@ def render_news_website(request):
       "change": 9.30,
       "percent_change": 1.57,
       "volume": 987654,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "CSCO",
@@ -139,7 +139,7 @@ def render_news_website(request):
       "change": 0.90,
       "percent_change": 1.76,
       "volume": 234567,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "QCOM",
@@ -148,7 +148,7 @@ def render_news_website(request):
       "change": 1.60,
       "percent_change": 1.09,
       "volume": 456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "IBM",
@@ -157,7 +157,7 @@ def render_news_website(request):
       "change": -0.75,
       "percent_change": -0.60,
       "volume": 567890,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "BABA",
@@ -166,7 +166,7 @@ def render_news_website(request):
       "change": -3.40,
       "percent_change": -1.59,
       "volume": 678901,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "PG",
@@ -175,7 +175,7 @@ def render_news_website(request):
       "change": 2.10,
       "percent_change": 1.54,
       "volume": 789012,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "PFE",
@@ -184,7 +184,7 @@ def render_news_website(request):
       "change": -0.30,
       "percent_change": -0.63,
       "volume": 890123,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "KO",
@@ -193,7 +193,7 @@ def render_news_website(request):
       "change": 0.10,
       "percent_change": 0.18,
       "volume": 901234,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "NFLX",
@@ -202,7 +202,7 @@ def render_news_website(request):
       "change": -3.45,
       "percent_change": -0.83,
       "volume": 1789456,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "MRNA",
@@ -211,7 +211,7 @@ def render_news_website(request):
       "change": 1.20,
       "percent_change": 0.62,
       "volume": 1122334,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "SPOT",
@@ -220,7 +220,7 @@ def render_news_website(request):
       "change": 4.50,
       "percent_change": 1.95,
       "volume": 1456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "ABNB",
@@ -229,7 +229,7 @@ def render_news_website(request):
       "change": -0.80,
       "percent_change": -0.46,
       "volume": 223344,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "NKE",
@@ -238,7 +238,7 @@ def render_news_website(request):
       "change": 2.80,
       "percent_change": 1.87,
       "volume": 334455,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "AMD",
@@ -249,7 +249,7 @@ def render_news_website(request):
       "change": -0.50,
       "percent_change": -0.48,
       "volume": 556677,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "F",
@@ -258,7 +258,7 @@ def render_news_website(request):
       "change": 0.15,
       "percent_change": 0.97,
       "volume": 112233,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "GM",
@@ -267,7 +267,7 @@ def render_news_website(request):
       "change": -0.20,
       "percent_change": -0.30,
       "volume": 445566,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "SBUX",
@@ -276,7 +276,7 @@ def render_news_website(request):
       "change": 1.10,
       "percent_change": 1.13,
       "volume": 667788,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "CRM",
@@ -285,7 +285,7 @@ def render_news_website(request):
       "change": 4.20,
       "percent_change": 1.64,
       "volume": 1324567,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "MCD",
@@ -294,7 +294,7 @@ def render_news_website(request):
       "change": -0.40,
       "percent_change": -0.16,
       "volume": 778899,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "WMT",
@@ -303,7 +303,7 @@ def render_news_website(request):
       "change": -0.80,
       "percent_change": -0.57,
       "volume": 889900,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "PYPL",
@@ -312,7 +312,7 @@ def render_news_website(request):
       "change": 0.90,
       "percent_change": 0.32,
       "volume": 2456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "VZ",
@@ -321,7 +321,7 @@ def render_news_website(request):
       "change": -0.10,
       "percent_change": -0.18,
       "volume": 345678,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "T",
@@ -330,7 +330,7 @@ def render_news_website(request):
       "change": 0.05,
       "percent_change": 0.17,
       "volume": 456789,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "ORCL",
@@ -339,7 +339,7 @@ def render_news_website(request):
       "change": 1.20,
       "percent_change": 1.47,
       "volume": 567890,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "BA",
@@ -348,7 +348,7 @@ def render_news_website(request):
       "change": -1.50,
       "percent_change": -0.69,
       "volume": 678901,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "HD",
@@ -357,7 +357,7 @@ def render_news_website(request):
       "change": -2.30,
       "percent_change": -0.71,
       "volume": 789012,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "DIS",
@@ -366,7 +366,7 @@ def render_news_website(request):
       "change": 2.60,
       "percent_change": 1.55,
       "volume": 890123,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "LMT",
@@ -375,7 +375,7 @@ def render_news_website(request):
       "change": 1.80,
       "percent_change": 0.46,
       "volume": 901234,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "UNH",
@@ -384,7 +384,7 @@ def render_news_website(request):
       "change": 3.40,
       "percent_change": 0.83,
       "volume": 112233,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "ABBV",
@@ -393,7 +393,7 @@ def render_news_website(request):
       "change": -0.60,
       "percent_change": -0.51,
       "volume": 334455,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "LRCX",
@@ -402,7 +402,7 @@ def render_news_website(request):
       "change": -2.90,
       "percent_change": -0.50,
       "volume": 556677,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "TXN",
@@ -411,7 +411,7 @@ def render_news_website(request):
       "change": 0.80,
       "percent_change": 0.43,
       "volume": 112233,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "SO",
@@ -420,7 +420,7 @@ def render_news_website(request):
       "change": 0.20,
       "percent_change": 0.31,
       "volume": 445566,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "CL",
@@ -429,7 +429,7 @@ def render_news_website(request):
       "change": 0.50,
       "percent_change": 0.59,
       "volume": 667788,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "LOW",
@@ -438,7 +438,7 @@ def render_news_website(request):
       "change": 1.30,
       "percent_change": 0.65,
       "volume": 778899,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "CAT",
@@ -447,7 +447,7 @@ def render_news_website(request):
       "change": -1.20,
       "percent_change": -0.51,
       "volume": 889900,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "MMM",
@@ -456,7 +456,7 @@ def render_news_website(request):
       "change": 0.80,
       "percent_change": 0.46,
       "volume": 112233,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "GOOG",
@@ -465,7 +465,7 @@ def render_news_website(request):
       "change": 12.45,
       "percent_change": 0.46,
       "volume": 1568945,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "BAC",
@@ -474,7 +474,7 @@ def render_news_website(request):
       "change": -0.20,
       "percent_change": -0.45,
       "volume": 223344,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     },
     {
       "symbol": "GS",
@@ -483,7 +483,7 @@ def render_news_website(request):
       "change": 2.10,
       "percent_change": 0.53,
       "volume": 334455,
-      "timestamp": "2024-06-15T16:00:00Z"
+      "timestamp": "2024-06-15"
     }
 ]
 
